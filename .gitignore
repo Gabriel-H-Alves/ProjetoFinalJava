@@ -1,0 +1,12 @@
+### IDEs e Builds ###
+.idea/
+*.iml
+out/
+bin/
+build/
+.vscode/
+.DS_Store
+
+### Compactados ###
+*.tar.gz
+*.zip
